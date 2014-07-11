@@ -1,0 +1,2 @@
+git remote add origin https://github.com/zeus87101430/Zeus.git
+git push -u origin master
